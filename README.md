@@ -1,4 +1,11 @@
-tên: Huỳnh Thiên KIm
+<!DOCTYPE html>
+<html>
+<head>
+ <p>giới thiệu</p>
+</head>
+<body>tên: Huỳnh Thiên KIm
 lớp: 12L
 sinh năm: 2007
-nhóm: 6
+nhóm: 6 
+</body>
+</html>
